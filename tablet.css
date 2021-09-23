@@ -1,0 +1,14 @@
+.header{
+  justify-content: space-around;
+}
+.header__logo{
+  width: 23%;
+}
+.header__menu{
+  width: 77%;
+  align-items: center;
+}
+.footer h3{
+  width: 25%;
+  padding-top: 15px;
+}

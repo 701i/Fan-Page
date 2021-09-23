@@ -1,0 +1,27 @@
+
+body{
+  margin: 0 auto;
+  width: 800px;
+}
+.container{
+  display: inherit;
+  height: inherit;
+  flex-direction: row;
+}
+.aside{
+  width: 15%;
+  height: auto;
+  align-content: space-around;
+  flex-direction: column;
+}
+.aside-card{
+  width: 100%;
+}
+
+.article{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+}
